@@ -2,68 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="493f0385-ef25-40c3-91f4-cdf1eb57531c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/canny.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/contours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/contours_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/contours_hull.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/fourier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/hough_circles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/hough_lines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/hpf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/skin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 5_Code/depth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 5_Code/disparity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 5_Code/disparity_video.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 5_Code/segmentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 5_Code/watershed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/brief.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/feat_det.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/flann.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/generate_descriptors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/generate_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/homography.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/scan_for_matches.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/sift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/non_maximum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/pyramid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/sliding_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_sliding_windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/detect_hog_svm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/people_detect_hog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/animals_ann.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/basic_ann.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/data/mnist.pkl.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/digit_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/digits_ann.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/digits_image_process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/images/MNISTsamples.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/images/digits.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/images/numbers.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/images/numbers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/images/ocr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/simple_ann.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/simple_ann2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/basic_motion_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/camshift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/hist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/kalman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/kalman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/kalman_camshift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/knn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/lk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/meanshift.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/meanshift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/mog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/movie.mpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/surveillance_demo/768x576.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/surveillance_demo/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/surveillance_demo/output.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/surveillance_demo/traffic.flv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter_8_Code/.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/opencv_conputer_version/chapter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Matplotlab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/OpenCV/img_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Pandas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/OpenCV/gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/output.avi" beforeDir="false" afterPath="$PROJECT_DIR$/basic/OpenCV/output.avi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/basic/OpenCV/test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/test_gray.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/basic/OpenCV/test_gray.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,42 +26,44 @@
     <session id="695534987">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="jpg" value="4" />
+          <entry key="jpg" value="10" />
           <entry key="md" value="1" />
-          <entry key="png" value="2" />
-          <entry key="py" value="44" />
+          <entry key="png" value="6" />
+          <entry key="py" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="6" />
+          <entry key="Image" value="16" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="44" />
+          <entry key="Python" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="7" />
           <entry key="dummy" value="13" />
-          <entry key="py" value="6007" />
-          <entry key="txt" value="9" />
+          <entry key="py" value="8427" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="6014" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Python" value="8434" />
         </counts>
       </usages-collector>
     </session>
@@ -122,39 +71,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/NumPy.py">
+        <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/chapter2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="300">
+              <caret line="11" selection-start-line="11" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/chapter2.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/OpenCV/img_op.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="492">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1571374277545" expanded="true" signature="56:130" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/logo.png">
+        <entry file="file://$PROJECT_DIR$/basic/NumPy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/Pandas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic/Matplotlab.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#162#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/OpenCV/test.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/logo_gray.png">
+        <entry file="file://$PROJECT_DIR$/basic/OpenCV/test_gray.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/logo.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/basic/OpenCV/gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2790">
+              <caret line="94" selection-start-line="94" selection-end-line="95" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -193,6 +176,9 @@
         <option value="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/simple_ann.py" />
         <option value="$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 9_Code/simple_ann2.py" />
         <option value="$PROJECT_DIR$/basic/opencv_conputer_version/chapter2.py" />
+        <option value="$PROJECT_DIR$/basic/Pandas.py" />
+        <option value="$PROJECT_DIR$/basic/OpenCV/img_op.py" />
+        <option value="$PROJECT_DIR$/basic/Matplotlab.py" />
       </list>
     </option>
   </component>
@@ -203,10 +189,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="669" />
-    <option name="y" value="32" />
-    <option name="width" value="687" />
-    <option name="height" value="690" />
+    <option name="x" value="693" />
+    <option name="y" value="196" />
+    <option name="width" value="643" />
+    <option name="height" value="408" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -216,6 +202,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,24 +215,24 @@
               <item name="opencv" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="opencv" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="opencv_conputer_version" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\python\opencv\basic\OpenCV" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,7 +246,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chapter2">
+  <component name="RunManager" selected="Python.Matplotlab">
+    <configuration name="Matplotlab" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/Matplotlab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="NumPy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,6 +282,28 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/NumPy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/Pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -308,6 +336,9 @@
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic/opencv_conputer_version" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -323,7 +354,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="img_op" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,12 +362,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic/OpenCV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/gui.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/OpenCV/img_op.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,40 +376,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="opencv" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.gui" />
       <item itemvalue="Python.NumPy" />
       <item itemvalue="Python.chapter2" />
+      <item itemvalue="Python.Pandas" />
+      <item itemvalue="Python.img_op" />
+      <item itemvalue="Python.Matplotlab" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Matplotlab" />
+        <item itemvalue="Python.img_op" />
+        <item itemvalue="Python.Pandas" />
         <item itemvalue="Python.chapter2" />
         <item itemvalue="Python.NumPy" />
-        <item itemvalue="Python.gui" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -407,14 +418,47 @@
       <option name="project" value="LOCAL" />
       <updated>1570628264375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2019.10.10">
+      <created>1570715312982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570715312982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="669" y="32" width="687" height="690" extended-state="0" />
+    <frame x="693" y="196" width="643" height="408" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5081967" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30622008" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24912281" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32934132" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32934132" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3236994" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" x="0" y="0" width="295" height="584" id="Documentation" order="7" side_tool="true" weight="0.27891654" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26080477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24912281" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -437,8 +481,8 @@
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" x="0" y="0" width="295" height="584" id="Documentation" order="7" side_tool="true" weight="0.32774675" />
-    </layout>
+      <window_info anchor="right" x="0" y="0" width="295" height="584" id="Documentation" order="7" side_tool="true" weight="0.5663189" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -448,54 +492,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019.10.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.10.9" />
+    <MESSAGE value="2019.10.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.10.10" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-            <element signature="e#59#277#0" />
-            <element signature="e#301#948#0" />
-            <element signature="e#967#1750#0" />
-            <element signature="e#3245#3701#0" />
-            <marker date="1570594426369" expanded="false" signature="962:1355" ph="..." />
-            <marker date="1570594426369" expanded="true" signature="1795:1997" ph="..." />
-            <marker date="1570594426369" expanded="true" signature="2659:2664" ph="..." />
-            <marker date="1570594426369" expanded="true" signature="3452:3501" ph="..." />
-            <marker date="1570594426369" expanded="true" signature="3749:3754" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-989324735/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="57" column="60" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84180">
           <caret line="2880" selection-start-line="2880" selection-end-line="2880" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/test_gray.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/test.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -509,93 +515,36 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/canny.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/contours.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/contours_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/contours_hull.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/fourier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/hough_circles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/hough_lines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/hpf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code/skin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 5_Code/depth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,74 +552,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-678">
           <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 5_Code/disparity_video.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 5_Code/segmentation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 5_Code/watershed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/brief.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/feat_det.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/flann.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/generate_descriptors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,9 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -695,39 +602,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 6_Code/sift.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/detect_hog_svm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-150">
           <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/people_detect_hog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -736,9 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,9 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,9 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,9 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,9 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#91#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -793,9 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -803,9 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -813,9 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="66" column="75" selection-start-line="66" selection-start-column="75" selection-end-line="66" selection-end-column="75" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,28 +697,65 @@
     <entry file="file://$PROJECT_DIR$/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 7_Code/car_detector/pyramid.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/NumPy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/logo.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/logo_gray.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic/opencv_conputer_version/chapter2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="300">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/OpenCV/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/OpenCV/test_gray.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/OpenCV/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="94" selection-start-line="94" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/OpenCV/img_op.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1571374277545" expanded="true" signature="56:130" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/NumPy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Matplotlab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#162#180#0" expanded="true" />
           </folding>
         </state>
       </provider>
